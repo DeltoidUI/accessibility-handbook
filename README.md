@@ -1,4 +1,4 @@
-### Accessibility resources
+## Accessibility resources
 
 A key part of designing for scale is that your products will inevitably be used by people with disabilities. If we as designers buy into the idea that our products have any meaning in the world, then it becomes our responsibility to provide these users the same access as everyone else. Disabilities come in many forms, and my aim with this document is to provide a list of resources to help designers delve further into different aspects of a11y. 
 
